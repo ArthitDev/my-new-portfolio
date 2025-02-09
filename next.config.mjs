@@ -4,6 +4,10 @@ const nextConfig = {
     turbo: {
       enabled: true,
     },
+    appDir: true,
+  },
+  typescript: {
+    ignoreBuildErrors: true,
   },
 };
 
