@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+# shellcheck disable=SC1091
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "pre-commit hook activated..."
+echo "try to lint & type checking..."
+
+npm run lint
+npm run check-types

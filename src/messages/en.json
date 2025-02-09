@@ -1,0 +1,26 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "I'M ARTHIT LUNGYA",
+    "description1": "A passionate Full Stack Developer with expertise in both frontend and backend technologies. I craft complete web solutions from database design to user interfaces. Check out my",
+    "projects": "PROJECTS",
+    "description2": "to see how I transform complex requirements into elegant, scalable applications.",
+    "description3": "When I'm not architecting systems or writing code, I'm exploring new technologies and reading tech",
+    "description4": "to stay ahead in the ever-evolving tech landscape. I believe in clean code, robust architecture, and continuous learning. Looking for a developer who can handle everything from server configuration to pixel-perfect UI? ",
+    "typing": {
+      "title1": "I'M ARTHIT LUNGYA",
+      "title2": "Duck Stack Developer",
+      "title3": "4th Year IT Student"
+    }
+  },
+  "highlight": {
+    "articles": "ARTICLES",
+    "contact": "CONTACT ME",
+    "seemore": "See More About Me"
+  }
+}

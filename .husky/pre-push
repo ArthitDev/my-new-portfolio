@@ -1,0 +1,8 @@
+#!/usr/bin/env sh
+# shellcheck disable=SC1091
+. "$(dirname -- "$0")/_/husky.sh"
+
+echo "pre-push hook activated..."
+echo "Running build..."
+
+npm run build
