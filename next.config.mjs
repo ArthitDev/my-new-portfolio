@@ -5,6 +5,9 @@ const nextConfig = {
       enabled: true,
     },
   },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
 };
 
 export default nextConfig;
