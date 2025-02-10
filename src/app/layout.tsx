@@ -14,6 +14,11 @@ const prompt = Prompt({
 export const metadata: Metadata = {
   title: 'Home | Arthit LungYa',
   description: 'Showcase of My Work and Projects',
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico',
+  },
 };
 
 export default async function RootLayout({
