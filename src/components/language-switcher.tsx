@@ -32,7 +32,6 @@ export function LanguageSwitcher() {
   };
 
   const handleLanguageChange = (newLang: 'th' | 'en') => {
-    console.log('Changing language to:', newLang);
     setLanguage(newLang);
     handleClose();
   };
